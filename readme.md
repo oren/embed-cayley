@@ -1,7 +1,7 @@
 # embed-cayley
 
 ```
-go build
-./embed-cayley
+go build seed.go && ./seed
+go build read.go && ./read
 ```
 
